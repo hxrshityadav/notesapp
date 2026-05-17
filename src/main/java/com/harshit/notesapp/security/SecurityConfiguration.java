@@ -37,6 +37,7 @@ public class SecurityConfiguration {
                     "/login",
                     "/register",
                     "/openapi.json",
+                    "/openapi.json/**",
                     "/about",
                     "/error",
                     "/swagger-ui/**",
